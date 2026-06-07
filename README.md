@@ -50,4 +50,4 @@ goose -dir (path/to/migrations) postgres "postgres://[username]:@localhost:5432/
 - reset - reset the database
 
 ## Brutal
-arg. it was brutal, but it's done.
+arg. it was brutal.
